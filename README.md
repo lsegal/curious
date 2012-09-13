@@ -11,16 +11,16 @@ A repository to explore how GitHub contribution graphs work
 |                                       o o         oo                         |
 |                 oo       oo           oo                                     |
 |                 oo      o o                                                  |
-|                         oo      oo                                           |
-|                                oo                                            |
-|                                  o                                           |
-|                                                    oo                        |
-|                                                   oo                         |
-|                                                     o                        |
+|                         oo     ooo                                           |
+|                                o                                             |
+|                                 o                                            |
+|                                                   ooo                        |
+|                                                   o                          |
+|                                                    o                         |
 |                                                                              |
-|                                          o                                   |
 |                                         oo                                   |
 |                                         o o                                  |
+|                                         o                                    |
 |                                                                              |
 --------------------------------------------------------------------------------
 ```
