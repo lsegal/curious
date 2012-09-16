@@ -7,17 +7,17 @@ A repository to explore how GitHub contribution graphs work
 |                                                                              |
 |                                                                              |
 |                                                                              |
-|                                        oo         oo                         |
-|                             ooo       o o         oo                         |
-|                 oo       oooo         oo                                     |
-|                 oo      o oo o                                               |
-|                         oo                     ooo                           |
-|                                                o                             |
-|                                                 o                            |
+|                              o         oo         oo                         |
+|                           o oo        o o         oo                         |
+|                 oo       o    o       oo                                     |
+|                 oo      o                       o                            |
+|                         ooo                    oo                            |
+|                                                o o                           |
+|                                                                              |
 |                                                                              |
 |                                      oo                                      |
-|                                      o o                                     |
-|                                      o                                       |
+|                                     oo                                       |
+|                                       o                                      |
 |                                                                              |
 |                                                                              |
 |                                                                              |
