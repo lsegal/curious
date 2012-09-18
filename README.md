@@ -8,15 +8,15 @@ A repository to explore how GitHub contribution graphs work
 |                                                                              |
 |                                                                              |
 |                              oo        oo         oo                         |
-|                             o  o      o o         oo                         |
-|                 oo       ooo   o      oo       o                             |
-|                 oo     oo ooooo               oo                             |
-|                        o  oo                  o o                            |
-|                        ooo                                                   |
-|                                                                              |
-|                                     oo                                       |
-|                                    oo                                        |
-|                                      o                                       |
+|                           oooo o      o o         oo                         |
+|                 oo      oo     o      oo      oo                             |
+|                 oo     oo    oo               o o                            |
+|                       o      o                o                              |
+|                        oooo                                                  |
+|                         o                                                    |
+|                                    ooo                                       |
+|                                    o                                         |
+|                                     o                                        |
 |                                                                              |
 |                                                                              |
 |                                                                              |
