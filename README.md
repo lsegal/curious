@@ -5,14 +5,14 @@ A repository to explore how GitHub contribution graphs work
 ```
 --------------------------------------------------------------------------------
 |                                                                              |
-|                                          o oo                                |
-|                          o                 o o                               |
-|                          oo          o       o    oo                         |
-|                     oo    oo        o     oo o    oo                         |
-|                 oo  oo    ooo       o      oo                                |
-|                 oo  oo    oo        o  o                                     |
-|                          oo          o o                                     |
-|                          o                                                   |
+|                                           ooo                                |
+|                          oo               oo o                               |
+|                          o o              oo oo   oo                         |
+|                     oo      o       oo    oo o    oo                         |
+|                 oo o  o  o  o      ooo    ooo                                |
+|                 oo  oo      o       ooo                                      |
+|                          o o          o                                      |
+|                          oo                                                  |
 |                                                                              |
 |                                                                              |
 |                                                                              |
