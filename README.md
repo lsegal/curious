@@ -4,20 +4,20 @@ A repository to explore how GitHub contribution graphs work
 
 ```
 --------------------------------------------------------------------------------
-|                                       oo                                     |
-|                                         o                                    |
-|                            oo            o                                   |
-|                            oo    o       o        oo                         |
-|                         oo     oo        o        oo                         |
-|                 oo     ooo     o  oo    o                                    |
-|                 oo      oo      ooooo oo                                     |
-|                            oo    o                                           |
+|                                        o                                     |
+|                                        oo                                    |
+|                            oo           oo                                   |
+|                           ooo   o       ooo       oo                         |
+|                        o oo    oooo     oo        oo                         |
+|                 oo     o  o    o    o  oo                                    |
+|                 oo     o oo     o   o  o                                     |
+|                           ooo   oo o                                         |
 |                            oo                                                |
 |                                                                              |
-|                                          o                                   |
-|                                           o                                  |
-|                                         ooo                                  |
 |                                                                              |
+|                                         o o                                  |
+|                                          oo                                  |
+|                                          o                                   |
 |                                                                              |
 |                                                                              |
 |                                               oo                             |
